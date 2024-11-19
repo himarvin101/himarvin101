@@ -70,4 +70,13 @@
 
 <img src="https://raw.githubusercontent.com/himarvin101/himarvin101/output/snake.svg" alt="Snake animation" />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=himarvin101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=himarvin101&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ###
